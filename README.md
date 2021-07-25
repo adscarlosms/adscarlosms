@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, React, Angular
 - 🤔 I’m looking for help with languages and frameworks front-end
 - 💬 Ask me about anything
-- 📫 How to reach me: linkedin.com/in/carlos-menezes-dos-santos-a27b70213, menezes.carlosms@gmail.com
+- 📫 How to reach me: **menezes.carlosms@gmail.com**
 
 
